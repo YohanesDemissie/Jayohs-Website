@@ -4,10 +4,10 @@ html {
 h1 {
   text-align: center;
   background-color: blue;
-  font-size: 60px;
+  font-size: 200px;
 }
 p{
   text-align: center;
   color: white;
-  
+  font-size: 100px;
 }
